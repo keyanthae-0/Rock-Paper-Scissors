@@ -17,7 +17,7 @@ function getComputerChoice(){
 
 //Function to get Humans choice
 function getHumanChoice(){
-    let humanChoice = prompt("Rock, Paper, Sciccors").toUpperCase();
+    let humanChoice = prompt("Rock, Paper, Scissors").toUpperCase();
     return humanChoice
 }
 
